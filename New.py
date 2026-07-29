@@ -6,7 +6,7 @@ st.set_page_config(page_title="Salary Prediction App", page_icon="💼", layout=
 
 model = joblib.load("salary_model.pkl")
 
-st.title("💼 Salary Prediction App")
+st.title(" Salary Prediction App")
 st.write("Fill in your profile below to get a predicted salary.")
 
 with st.form("salary_form"):
