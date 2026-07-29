@@ -6,7 +6,7 @@ known, tools known, and number of projects completed.
 
 ## Deploy Link
 https://salary-prediction-app-m8mlbek57wlcphy7xkkttv.streamlit.app/
-*(redeploy after updating files — see "Updating the deployed app" below)*
+
 
 ## Tech Stack
 - Python
